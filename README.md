@@ -1,3 +1,3 @@
-# My Awesome Book
+# Field Notes on Citrix NetScaler CPX
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+NetScaler CPX is a dockerized/containerized version of the popular NetScaler Application Delivery Controller / Load Balancer. This book details some notes on how to use this version of the NetScaler in various scenarios.
